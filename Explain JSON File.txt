@@ -1,0 +1,45 @@
+{
+  "uid": "ef40e1a8dfd54ab1877effbd69a207e7", // معرف فريد للفيديو (Unique ID)
+  "creator": null, // اسم منشئ المحتوى (غير متوفر هنا)
+  "thumbnail": "https://customer-g4lyns8yvqw82wxv.cloudflarestream.com/ef40e1a8dfd54ab1877effbd69a207e7/thumbnails/thumbnail.jpg", // رابط الصورة المصغرة للفيديو
+  "thumbnailTimestampPct": 0, // النسبة المئوية لتوقيت التقاط الصورة المصغرة (هنا في بداية الفيديو)
+  "readyToStream": true, // حالة تشير إلى أن الفيديو جاهز للبث
+  "readyToStreamAt": "2024-10-19T10:44:32.522695Z", // وقت جاهزية الفيديو للبث
+  "status": { // حالة الفيديو أثناء أو بعد المعالجة
+    "state": "ready", // حالة الفيديو (جاهز)
+    "pctComplete": "100.000000", // نسبة اكتمال معالجة الفيديو
+    "errorReasonCode": "", // كود الخطأ (فارغ في حالة عدم وجود مشاكل)
+    "errorReasonText": "" // وصف الخطأ إن وجد
+  },
+  "meta": { 
+    "name": "3442792655-preview.mp4" // اسم الملف الأصلي للفيديو
+  },
+  "created": "2024-10-19T10:41:42.435414Z", // وقت إنشاء الفيديو
+  "modified": "2024-10-19T11:05:09.916008Z", // وقت آخر تعديل على الفيديو
+  "scheduledDeletion": null, // تاريخ الحذف المجدول (غير موجود هنا)
+  "size": 569482, // حجم الفيديو بالبايت
+  "preview": "https://customer-g4lyns8yvqw82wxv.cloudflarestream.com/ef40e1a8dfd54ab1877effbd69a207e7/watch", // رابط للمعاينة أو تشغيل الفيديو
+  "allowedOrigins": [], // قائمة بالمصادر المسموح بها (فارغة هنا)
+  "requireSignedURLs": false, // إذا كان التشغيل يتطلب روابط موقعة (لا يتطلب في هذه الحالة)
+  "uploaded": "2024-10-19T10:44:27.051733Z", // وقت رفع الفيديو إلى النظام
+  "uploadExpiry": "2024-10-19T11:11:42.435401Z", // وقت انتهاء صلاحية الرابط المؤقت للرفع
+  "maxSizeBytes": null, // الحد الأقصى للحجم (غير محدد)
+  "maxDurationSeconds": 3600, // الحد الأقصى لمدة الفيديو بالثواني (3600 ثانية = ساعة واحدة)
+  "duration": 8.6, // مدة الفيديو بالثواني (8.6 ثانية)
+  "input": { 
+    "width": 898, // عرض الفيديو بالبكسل
+    "height": 506 // ارتفاع الفيديو بالبكسل
+  },
+  "playback": { // روابط بث الفيديو بتنسيقات مختلفة
+    "hls": "https://customer-g4lyns8yvqw82wxv.cloudflarestream.com/ef40e1a8dfd54ab1877effbd69a207e7/manifest/video.m3u8", // رابط بث HLS
+    "dash": "https://customer-g4lyns8yvqw82wxv.cloudflarestream.com/ef40e1a8dfd54ab1877effbd69a207e7/manifest/video.mpd" // رابط بث DASH
+  },
+  "watermark": null, // العلامة المائية (غير موجودة هنا)
+  "clippedFrom": null, // الأصل الذي تم قص الفيديو منه (إن وجد)
+  "publicDetails": { 
+    "title": "", // عنوان الفيديو (فارغ)
+    "share_link": "", // رابط المشاركة (فارغ)
+    "channel_link": "", // رابط القناة (فارغ)
+    "logo": "" // شعار الفيديو أو القناة (غير موجود هنا)
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\bin\Debug\net8.0-windows\TestVideoStream.exe
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\bin\Debug\net8.0-windows\TestVideoStream.deps.json
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\bin\Debug\net8.0-windows\TestVideoStream.runtimeconfig.json
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\bin\Debug\net8.0-windows\TestVideoStream.dll
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\bin\Debug\net8.0-windows\TestVideoStream.pdb
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.AssemblyInfoInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.AssemblyInfo.cs
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVide.0DB2AD8C.Up2Date
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.dll
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\refint\TestVideoStream.dll
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.pdb
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\TestVideoStream.genruntimeconfig.cache
+C:\Users\wadea\OneDrive\Desktop\Test Video\TestVideoStream\obj\Debug\net8.0-windows\ref\TestVideoStream.dll
